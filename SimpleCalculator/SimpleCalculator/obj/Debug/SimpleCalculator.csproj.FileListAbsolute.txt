@@ -1,0 +1,7 @@
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

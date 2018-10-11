@@ -1,0 +1,7 @@
+C:\Users\Tien\source\repos\WorldUnscambler\WorldUnscambler\bin\Debug\WorldUnscambler.exe.config
+C:\Users\Tien\source\repos\WorldUnscambler\WorldUnscambler\bin\Debug\WorldUnscambler.exe
+C:\Users\Tien\source\repos\WorldUnscambler\WorldUnscambler\bin\Debug\WorldUnscambler.pdb
+C:\Users\Tien\source\repos\WorldUnscambler\WorldUnscambler\obj\Debug\WordUnscambler.csprojAssemblyReference.cache
+C:\Users\Tien\source\repos\WorldUnscambler\WorldUnscambler\obj\Debug\WordUnscambler.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\WorldUnscambler\WorldUnscambler\obj\Debug\WorldUnscambler.exe
+C:\Users\Tien\source\repos\WorldUnscambler\WorldUnscambler\obj\Debug\WorldUnscambler.pdb

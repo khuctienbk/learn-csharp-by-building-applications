@@ -1,0 +1,17 @@
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.pdb
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.exe
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.pdb
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CopyComplete
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\Tien\source\repos\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.pdb
